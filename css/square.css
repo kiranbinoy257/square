@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    height: 60px;
+    width: 100%;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+}
+#a1{
+    position: absolute;
+    font-size: 110%;
+    left: 5%;
+    top: 20%;
+}
+
+#a2{
+    position: absolute;
+    font-size: 110%;
+    left: 13%;
+    top: 20%;
+}
+#a2:hover #a{
+    height: auto;
+    width: 100%;
+    font-size: 300%;
+    position: absolute;
+}
+#a3{
+    position: absolute;
+    font-size: 110%;
+    left: 19%;
+    top: 20%;
+}
+#a4{
+    position: absolute;
+    font-size: 110%;
+    left: 23%;
+    top: 20%;
+}
+#a5{
+    position: absolute;
+    font-size: 110%;
+    left: 28%;
+    
+    top: 20%;
+}
+#a6{
+    position: absolute;
+    font-size: 110%;
+    left: 33%;
+    top: 20%;
+}
+
+#a7{
+    position: absolute;
+    font-size: 110%;
+    left: 38%;
+    top: 20%;
+}
+.squareleft{
+    height: 60px;
+    width: 350px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 81.5%;
+}
+#a8{
+    position: absolute;
+    font-size: 110%;
+    left: 20%;
+    top: 20%;
+}
+#a9{
+    position: absolute;
+    font-size: 110%;
+    left: 40%;
+    top: 20%;
+}
+#a10{
+    position: absolute;
+    font-size: 110%;
+    left: 65%;
+    top: 20%;
+}
+.a11{
+    position: absolute;
+    left: 85%;
+    top: 10%;
+}
+.a11 img{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+}
+.sub1{
+    height: 810px;
+    width: 100%;
+    position: relative;
+}
+.sub1 img{
+    height: 810px;
+    width: 100%;
+    object-fit: cover;
+}
+.sub11{
+    height: 500px;
+    width: 400px;
+    background: transparent;
+    position: absolute;
+    color: white;
+    top: 12%;
+    left: 13%;
+    /* background-color: aqua; */
+}
+#b1{
+    font-size: 300%;
+    font-weight: 500;
+    
+}
+#b2{
+    font-size: 100%;
+}
+#b3{
+    position: absolute;
+    left: 1%;
+    top: 70%;
+    height: 50px;
+    width: 120px;
+    border-radius: 8%;
+    color:rgb(5, 152, 250);
+    border: 2px solid rgb(5, 152, 250);
+    background: transparent;
+}
+#b4{
+    position: absolute;
+    left: 35%;
+    top: 70%;
+    height: 50px;
+    width: 150px;
+    border-radius: 8%;
+    color:rgb(250, 250, 255);
+    background-color:rgb(5, 152, 250);
+}
