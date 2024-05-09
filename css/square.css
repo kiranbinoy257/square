@@ -65,7 +65,7 @@
     width: 350px;
     background-color: rgb(0, 0, 0);
     position: absolute;
-    left: 81.5%;
+    left: 77.5%;
 }
 #a8{
     position: absolute;
@@ -96,12 +96,12 @@
     object-fit: cover;
 }
 .sub1{
-    height: 810px;
+    height: 600px;
     width: 100%;
     position: relative;
 }
 .sub1 img{
-    height: 810px;
+    height: 600px;
     width: 100%;
     object-fit: cover;
 }
